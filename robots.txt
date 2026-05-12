@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://discover-islam.github.io/sitemap.xml
